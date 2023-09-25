@@ -1,5 +1,6 @@
 # DLGAN
 Basic GAN Implementation
+
 Description for a GAN (Generative Adversarial Network) implementation for image generation using TensorFlow. Here's a summary of the key components and steps involved in this GAN implementation:
 1. Introduction to GANs:
    - GANs, or Generative Adversarial Networks, consist of two neural networks: a discriminator and a generator.
